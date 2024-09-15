@@ -1,2 +1,3 @@
 http://backend.course#taras0kv
 http://backend.course?name=%22%D0%9A%D0%B2%D0%B0%D1%81%D0%BD%D0%B8%D1%86%D1%8F%20%D0%A2%D0%B0%D1%80%D0%B0%D1%81%22&github_name=taras0kv&group=%22%D0%A4%D0%95%D0%86-26%D1%81%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201%22
+https://bank.gov.ua/NBUStatService/v1/statdirectory/inflation?period=y&date=201701&json
